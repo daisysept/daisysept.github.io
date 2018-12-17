@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[sublime配置sublime]]></title>
+    <url>%2F2018%2F12%2F17%2F%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%2F</url>
+    <content type="text"><![CDATA[python环境配置集成器：sublimestep-1:ctrl+shift:package install problem:报错 There Are No Packages Available For Installation console: IPV6的问题，导致无法访问sublime的官网,于是在host中添加如下对应ip(IP地址用在线ping，host位置：C:\Windows\System32\drivers\etc)50.116.34.243 sublime.wbond.net 连接不上https://packagecontrol.io/channel_v3.jsonPreferences &gt; Package Settings &gt; Package Control &gt; Settings - User 输入{“channels”: [ “https://packagecontrol.io/channel_v3.json&quot;, “https://web.archive.org/web/20150905194312/https://packagecontrol.io/channel_v3.json&quot; ] 从网上下载package control插件，替换原来插件step-2： first:pip install flake8 second:ctrl+shift+p ，并输入 install Package，然后回车,安装subli,elinter third:Install SublimeLinter-flake8 fourth:配置SublimeLinter-flake8 具体见：https://www.cnblogs.com/zhaof/p/8126306.html?tdsourcetag=s_pctim_aiomsg]]></content>
+      <categories>
+        <category>python</category>
+      </categories>
+      <tags>
+        <tag>python</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title></title>
+    <url>%2F2018%2F12%2F15%2Faa%2F</url>
+    <content type="text"><![CDATA[aahahhahe]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[hexo初步学习记载]]></title>
+    <url>%2F2018%2F12%2F14%2Fheihei%2F</url>
+    <content type="text"><![CDATA[新建导航分类hexo new page []]]></content>
+      <categories>
+        <category>hexo</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+</search>
